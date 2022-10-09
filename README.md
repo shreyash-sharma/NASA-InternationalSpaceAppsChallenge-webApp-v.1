@@ -17,7 +17,8 @@ NASA-InternationalSpaceAppsChallenge-webApp-v.1)e">
 ## About The Project
 
 
-WebApp created for NASA SpaceApps Challenge Ireland (2021). This repo contains only the initial mockup created for stackholders.
+WebApp created for NASA SpaceApps Challenge Ireland (2021). This repo contains only the initial workup created for stackholders.
+
 Idea/Requirements:
 1. Centralised platform for participants sign-up.
 2. Platform for mentors to provide guidance.
@@ -25,7 +26,7 @@ Idea/Requirements:
 4. Participants chat integration.
 5. Live telecast of Hackathon, for virtual participation.
 
-NOTE: DEPRECATED | The product was ported to a ReactJS WebApp.
+NOTE: No Longer Maintained | The product was ported to a ReactJS WebApp.
 
 ### Demo
 
