@@ -29,14 +29,11 @@ NOTE: DEPRECATED | The product was ported to a ReactJS WebApp.
 * ![file_type_css_icon_130661](https://user-images.githubusercontent.com/14334982/194761701-e4fa2f01-a337-402c-a09d-4bdbccc9e569.png) - CSS3
 * ![file_type_html_icon_130541](https://user-images.githubusercontent.com/14334982/194761766-54ebb7da-e9e1-4e2e-ab30-1dcb51827eca.png)- HTML5
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.md` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
