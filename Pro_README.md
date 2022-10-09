@@ -24,7 +24,7 @@ NOTE: DEPRECATED | The product was ported to a ReactJS WebApp.
 
 ### Built With
 
-* [![JavaScript][https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433]]
+* [![JavaScript][https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
