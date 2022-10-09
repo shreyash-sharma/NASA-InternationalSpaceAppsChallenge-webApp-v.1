@@ -25,6 +25,7 @@ NOTE: DEPRECATED | The product was ported to a ReactJS WebApp.
 ### Built With
 
 * [![JavaScript][Next.js]][Next-url]
+* ![javascript_original_logo_icon_146455](https://user-images.githubusercontent.com/14334982/194761637-93f71a8f-4821-40fa-bcd8-f23bfb725930.png)
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
