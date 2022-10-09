@@ -23,9 +23,9 @@ NOTE: DEPRECATED | The product was ported to a ReactJS WebApp.
 
 ### Built With
 
-* ![javascript_original_logo_icon_146455](https://user-images.githubusercontent.com/14334982/194761637-93f71a8f-4821-40fa-bcd8-f23bfb725930.png)
-* ![file_type_css_icon_130661](https://user-images.githubusercontent.com/14334982/194761701-e4fa2f01-a337-402c-a09d-4bdbccc9e569.png)
-* ![file_type_html_icon_130541](https://user-images.githubusercontent.com/14334982/194761766-54ebb7da-e9e1-4e2e-ab30-1dcb51827eca.png)
+* JavaScript ![javascript_original_logo_icon_146455](https://user-images.githubusercontent.com/14334982/194761637-93f71a8f-4821-40fa-bcd8-f23bfb725930.png)
+* CSS3![file_type_css_icon_130661](https://user-images.githubusercontent.com/14334982/194761701-e4fa2f01-a337-402c-a09d-4bdbccc9e569.png)
+* HTML5 ![file_type_html_icon_130541](https://user-images.githubusercontent.com/14334982/194761766-54ebb7da-e9e1-4e2e-ab30-1dcb51827eca.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -41,9 +41,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Shreyash Sharma  - shreyash.sharma78@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/shreyash-sharma/NASA-InternationalSpaceAppsChallenge-webApp-v.1]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
