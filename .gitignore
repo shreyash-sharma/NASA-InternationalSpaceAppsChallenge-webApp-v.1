@@ -1,0 +1,6 @@
+# data files
+*.csv
+*.xlsx
+
+# embedded videos
+*.mp4
