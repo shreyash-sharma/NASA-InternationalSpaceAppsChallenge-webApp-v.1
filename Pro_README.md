@@ -24,8 +24,11 @@ NOTE: DEPRECATED | The product was ported to a ReactJS WebApp.
 
 ### Built With
 
-* [![JavaScript][Next.js]][Next-url]
 * ![javascript_original_logo_icon_146455](https://user-images.githubusercontent.com/14334982/194761637-93f71a8f-4821-40fa-bcd8-f23bfb725930.png)
+* ![file_type_css_icon_130661](https://user-images.githubusercontent.com/14334982/194761701-e4fa2f01-a337-402c-a09d-4bdbccc9e569.png)
+* ![file_type_html_icon_130541](https://user-images.githubusercontent.com/14334982/194761766-54ebb7da-e9e1-4e2e-ab30-1dcb51827eca.png)
+
+
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
