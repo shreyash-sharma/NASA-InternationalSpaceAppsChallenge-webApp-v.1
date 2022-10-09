@@ -3,7 +3,8 @@
 <div align="center">
   <a href="https://github.com/shreyashs/
 NASA-InternationalSpaceAppsChallenge-webApp-v.1">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+   ![nasaspaceappschallenge-300x200](https://user-images.githubusercontent.com/14334982/194762254-24f7f22d-e8c2-448d-9072-6e080c550a2c.jpg)
+
   </a>
 
 <h3 align="center">NASA SpaceApps Challenge WebApp Ireland</h3>
