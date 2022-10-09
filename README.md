@@ -23,7 +23,9 @@ NOTE: DEPRECATED | The product was ported to a ReactJS WebApp.
 
 ### Demo
 
-Uploading demo.mp4…
+
+https://user-images.githubusercontent.com/14334982/194764104-d6f608af-18d4-4b57-a9a5-a0ab49f4681c.mp4
+
 
 
 ### Built With
