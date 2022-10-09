@@ -11,6 +11,7 @@ NASA-InternationalSpaceAppsChallenge-webApp-v.1">
 
 * ![javascript_original_logo_icon_146455](https://user-images.githubusercontent.com/14334982/194761637-93f71a8f-4821-40fa-bcd8-f23bfb725930.png)- JavaScript
 
+* ![nasaspaceappschallenge-300x200](https://user-images.githubusercontent.com/14334982/194762449-a08e3412-db98-4b58-a1f0-acb0cd819965.jpg)
 
 
 <!-- ABOUT THE PROJECT -->
