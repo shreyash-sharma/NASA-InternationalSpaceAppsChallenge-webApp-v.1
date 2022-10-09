@@ -16,15 +16,15 @@ NASA-InternationalSpaceAppsChallenge-webApp-v.1">
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+WebApp created for NASA SpaceApps Challenge Ireland (2021).  This repo contains only the initial mockup created for stackholders.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+NOTE: DEPRECATED | The product was ported to a ReactJS WebApp.
 
 
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![JavaScript][https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433]]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
