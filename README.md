@@ -8,8 +8,7 @@ NASA-InternationalSpaceAppsChallenge-webApp-v.1">
 
 <h3 align="center">NASA SpaceApps Challenge WebApp Ireland</h3>
 </div>
-<p align="center">
-![nasaspaceappschallenge-300x200](https://user-images.githubusercontent.com/14334982/194762449-a08e3412-db98-4b58-a1f0-acb0cd819965.jpg)</p>
+![nasaspaceappschallenge-300x200](https://user-images.githubusercontent.com/14334982/194762449-a08e3412-db98-4b58-a1f0-acb0cd819965.jpg)
 
 
 
